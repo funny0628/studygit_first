@@ -5,4 +5,4 @@
 > 创建一个远程仓库,直接克隆到本地,默认是只有一个master分支,
 在本地创建一个新的分支,然后再把这个分支推送到远程,这样远程仓库就有了一个对应的分支
 git checkout -b newbranch
-git push 仓库别名 远程分支名:本地分支min
+git push 仓库别名 远程分支名:本地分支min-max
